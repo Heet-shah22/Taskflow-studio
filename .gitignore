@@ -1,0 +1,19 @@
+# Environment and credentials
+.env
+.env.local
+
+# Operating System files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Logs and cache
+*.log
+error_log
+.phpunit.result.cache
+
+# Dependencies (if used later)
+/vendor/
+/node_modules/
